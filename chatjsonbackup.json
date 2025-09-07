@@ -1,0 +1,14 @@
+[
+  {
+    "triggers": ["hi", "hello"],
+    "responses": ["Hello! How are you?", "Hey there! 😈"]
+  },
+  {
+    "triggers": ["bye", "see you"],
+    "responses": ["Goodbye! 😘", "See you later!"]
+  },
+  {
+    "triggers": ["how are you"],
+    "responses": ["I'm feeling great 😎", "All good! What about you?"]
+  }
+]
