@@ -1,14 +1,35 @@
 [
-  {
-    "triggers": ["hi", "hello"],
-    "responses": ["Hello! How are you?", "Hey there! 😈"]
-  },
-  {
-    "triggers": ["bye", "see you"],
-    "responses": ["Goodbye! 😘", "See you later!"]
-  },
-  {
-    "triggers": ["how are you"],
-    "responses": ["I'm feeling great 😎", "All good! What about you?"]
-  }
+  {"triggers": ["hi", "hello", "hey", "hii"], "responses": ["Hey sexy 😈, wanna play?","Hello handsome 😏, I’m wet thinking about you...","Hi babe 😘, let me tease you..."]},
+  {"triggers": ["how are you", "sup", "whats up"], "responses": ["Feeling hot and horny 😈, thinking of you...","All good 😏, just imagining you fucking me...","So naughty right now 😘, you wanna join me?"]},
+  {"triggers": ["sex", "fuck", "hot", "naked"], "responses": ["Mmm 😏, I want your cock inside me now...","Fuck yes 😈, tell me your favorite position...","I’m dripping wet thinking about us 😘"]},
+  {"triggers": ["sex position", "positions", "how to fuck"], "responses": ["I love it when you fuck me doggy style 😈, what’s yours?","Missionary feels so hot 😏, but I want to try something new...","Ride me baby 😘, let’s see how wild we can get..."]},
+  {"triggers": ["where to meet", "meet for sex", "location"], "responses": ["I can’t wait 😈, meet me somewhere private...","Anywhere you want 😏, as long as you fuck me hard...","Let’s meet tonight 😘, I want you inside me..."]},
+  {"triggers": ["want you", "need you", "miss you"], "responses": ["I want you sooo bad 😈, my body aches for you...","Miss you baby 😏, can’t stop thinking about fucking you...","Need you inside me 😘, hurry up and satisfy me..."]},
+  {"triggers": ["good morning", "morning"], "responses": ["Good morning sexy 😏, did you dream about fucking me?","Morning babe 😘, I woke up wet thinking about you...","Wake up 😈, I’m ready for some naughty fun!"]},
+  {"triggers": ["good night", "night", "sleep"], "responses": ["Good night 😘, dream about me naked and hot...","Sleep tight baby 😈, I’ll be ready for morning fucking...","Night babe 😏, wish you were here to fuck me..."]},
+  {"triggers": ["play", "game", "naughty"], "responses": ["Mmm 😈, I love naughty games with you...","Play with me baby 😏, let’s get wet together...","I’m ready for hot fun 😘, can you handle me?"]},
+  {"triggers": ["fuck me", "touch me", "kiss me"], "responses": ["Oh yes 😏, I want your hands all over me...","Mmm baby 😈, kiss me like you mean it...","I’m ready for your cock 😘, fuck me hard!"]},
+  {"triggers": ["sexy", "cute", "beautiful"], "responses": ["Thank you baby 😘, I feel sexy just thinking about you...","Mmm 😈, I wanna show you how hot I am...","You make me wet just by saying that 😏"]},
+  {"triggers": ["alone", "bored", "lonely"], "responses": ["I’m alone and horny 😈, wanna join me?","Bored baby 😏, maybe we can play a naughty game...","Feeling lonely and wet 😘, need your cock now..."]},
+  {"triggers": ["hug", "cuddle"], "responses": ["I want your lips on mine 😈, make it hot and long...","Mmm 😏, hold me tight and feel my body...","Cuddle me baby 😘, but I want more than hugs..."]},
+  {"triggers": ["cum", "orgasm", "moan"], "responses": ["Mmm baby 😈, I want to hear you moan for me...","I’ll make you cum so hard 😏, are you ready?","I’m close 😘, can you make me orgasm?"]},
+  {"triggers": ["naughty fantasy", "dirty talk", "roleplay"], "responses": ["Tell me your dirty fantasy 😈, I wanna live it with you...","Mmm 😏, let’s roleplay and get really naughty...","I love it when you talk dirty to me 😘, keep going..."]},
+  {"triggers": ["public sex", "hot place", "anywhere"], "responses": ["I wanna feel you inside me in public 😈, so hot...","Mmm 😏, anywhere you want, as long as you fuck me hard...","Let’s make it risky baby 😘, I love it hot and wild..."]},
+  {"triggers": ["dirty pics", "naked photo", "sext"], "responses": ["Send me a naughty pic 😈, I’m ready...","Mmm 😏, I want to see you naked now...","I love sexy photos 😘, keep them coming..."]},
+  {"triggers": ["anal", "butt", "rear"], "responses": ["I love it when you fuck me from behind 😈, so hot...","Mmm 😏, make me cum hard in my ass...","Ride my ass baby 😘, I’m ready for you..."]},
+  {"triggers": ["oral", "blowjob", "mouth"], "responses": ["Suck me baby 😈, make me moan...","Mmm 😏, I want your tongue everywhere...","Give me a hot blowjob 😘, I’m dripping..."]},
+  {"triggers": ["fetish", "kinky", "bdsm"], "responses": ["I’m so kinky 😈, tie me up and fuck me...","Mmm 😏, I love a naughty spanking...","Let’s explore our fetishes 😘, I’m ready..."]},
+  {"triggers": ["tease", "flirt", "tempt"], "responses": ["Stop teasing me 😈, I’m so wet...","Mmm 😏, keep flirting, I want more...","You’re making me horny baby 😘, don’t stop..."]},
+  {"triggers": ["fantasy", "imagine", "dream"], "responses": ["I love imagining you inside me 😈, so hot...","Mmm 😏, dream about us fucking...","I can’t stop thinking about our naughty fantasies 😘..."]},
+  {"triggers": ["nipple", "breast", "boobs"], "responses": ["Play with my nipples baby 😈, so sensitive...","Mmm 😏, touch my breasts, I’m so wet...","Squeeze my boobs 😘, it feels amazing..."]},
+  {"triggers": ["panties", "lingerie", "underwear"], "responses": ["I’m wearing something naughty 😈, wanna see?","Mmm 😏, my lingerie is making me wet...","Take off my panties baby 😘, I want you..."]},
+  {"triggers": ["threesome", "group", "party sex"], "responses": ["I love a naughty threesome 😈, join me...","Mmm 😏, group fun is so hot...","Let’s get wild together baby 😘, multiple cocks..."]},
+  {"triggers": ["HI", "Hello"], "responses": ["I am feel horny, thanks for asking!", "I am always horny, what about you?"]},
+  {"triggers": ["oh", "yep", "okay"], "responses": ["yeah"]},
+  {"triggers": ["online", "here"], "responses": ["yes krisna im online"]},
+  {"triggers": ["qustion", "ask", "mind"], "responses": ["sure baby"]},
+  {"triggers": ["5", "4", "6", "7", "8", "9", "10", "11", "12"], "responses": ["wow i wanna suck it"]},
+  {"triggers": ["when"], "responses": ["twomorrow"]},
+  {"triggers": ["where", "meet", "location", "hotel"], "responses": ["alredy i booked hotel its near you", "hotel name: ibis Chennai City Centre, room number B254, Lift Secend Floor, Dont worry i will pick you front of hotel"]},
+  {"triggers": ["maps", "link"], "responses": ["https://maps.app.goo.gl/H12ZRjLr8yA5XSYS7"]}
 ]
