@@ -18,7 +18,7 @@
   
   {"triggers": ["Boobs Size" , "Know Boobs Size","Boob Size"], "responses": ["I measured 48 inches in the last Month, Do you love big boobs baby😏"]},
 
-  {"triggers": ["I love big boobs" ,"I love big boob"], "responses": ["During our sexual intercourse Dont forget to Suck my boobs & pussy 😏, do you love drink alcohol before sex"]},
+  {"triggers": ["big boobs" ,"big boob"], "responses": ["During our sexual intercourse Dont forget to Suck my boobs & pussy 😏, do you love drink alcohol before sex"]},
 
 
     {"triggers": ["i love drink alcohol" , "drink" , "alcohol"], "responses": ["Yes Baby💦,which brand do want to drink anything before sex, such as alcohol  Indri-Trini,,Amrut Fusion,Antiquity Blue,Old Monk,Magic Moments,Kingfisher,,Budweiser,Tuborg,or cigarettes? If you want, I will arrange it in advance."]},
@@ -37,7 +37,11 @@
  
   {"triggers": ["online", "here"], "responses": ["yes baby krisna im online"]},
   
+  {"triggers": ["married"], "responses": ["Yes but my hasband is too much weak in bed,He could never satisfy me, that's why I booked you :)"]},
+  
   {"triggers": ["bye"], "responses": ["Okay 😘, Message me if you need anything"]},
+    
+  {"triggers": ["Thanks" , "Thank"], "responses": ["Welcome baby 😘"]},
 
   {"triggers": ["good night"], "responses": ["Good night 😘, Message me if you need anything"]},
   
