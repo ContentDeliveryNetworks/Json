@@ -1,3 +1,53 @@
 {
-  "expired": "28-11-26",
+  "user": {
+    "username": "Marlon",
+    "vpn_status": "DISCONNECTED",  // Values: CONNECTED, CONNECTING, STOPPING, NO_NETWORK, AUTH, AUTH_FAILED, DISCONNECTED
+    "connected_time_minutes": 0
+  },
+  "expiration": {
+    "expiration_date": "2025-11-15",
+    "days_left": 25,
+    "status": "Active"  // Active, Expired
+  },
+  "network": {
+    "download_speed": "0 KB/s",
+    "upload_speed": "0 KB/s"
+  },
+  "menu": [
+    {
+      "name": "Validity",
+      "action": "showValidityModal",
+      "icon": "🗓️"
+    },
+    {
+      "name": "No Connect",
+      "action": "openWebView('https://masud.eu.org')",
+      "icon": "❌"
+    },
+    {
+      "name": "Hotspot",
+      "action": "showRoutingModal",
+      "icon": "📶"
+    },
+    {
+      "name": "APN",
+      "action": "startApnActivity",
+      "icon": "🌐"
+    },
+    {
+      "name": "Battery Optimization",
+      "action": "ignoreBatteryOptimizations",
+      "icon": "🔋"
+    },
+    {
+      "name": "Clean App",
+      "action": "cleanApp",
+      "icon": "🧹"
+    },
+    {
+      "name": "Expiration Info",
+      "action": "showValidityModal",
+      "icon": "⏳"
+    }
+  ]
 }
